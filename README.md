@@ -10,5 +10,18 @@ TBD.
 
 In this section, we are going to discuss different algorithms and test them for the following criteria. 
 1. Accuracy
-2. Memory Usage
-3. Performance
+1. Memory Usage
+1. Performance
+
+and we are going to use testing measurement for each of the following locales:
+1. Thai
+1. Chinese
+1. ... etc.
+
+
+## LSTM: Long Short-Term Memory
+In this part, LSTM algorithm will be applied for each locale respectively.
+
+### 1. Thai
+
+TBD.
